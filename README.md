@@ -26,4 +26,10 @@ Using openCV and Haar Cascade classifier to detect faces
      minNeighbors=3,
      
      minSize=(30, 30)
+
+ ## Result
+ 
+   ![](test7.jpg)
+   
+   ![](result.png)
  
